@@ -1,7 +1,7 @@
 # neural-network-from-scratch
 This is a simple implementation of deep neural networks. The purpose for this project is to understand the mathematics behind neural networks.
 
-###Improvements
+### Improvements
 1. Apply CNNs
 2. Create a usable python library
 
